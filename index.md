@@ -6,7 +6,7 @@ I live in Portugal and work as a Data Analyst for Vodafone Portugal where I leve
 
 I took a masters in Electrical and Computer Engineering at Instituto Superior Tecnico with strong focus on machine learning, signal processing, optimization and algorithms.
 
-![Image](https://github.com/ruidbras/ruidbras.github.io/src/github_personal)
+![Image](https://github.com/ruidbras/ruidbras.github.io/src/github_personal.jpg)
 
 
 
